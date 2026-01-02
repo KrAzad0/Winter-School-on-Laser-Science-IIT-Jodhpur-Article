@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research work, please cite it as below."
+authors:
+  - family-names: Azad
+    given-names: Kumar
+    affiliation: "Research Scholar, Physics"
+title: "Hydrogen Atom Interaction with Attosecond Pulse Inside a Torus: Theoretical and Computational Analysis"
+date-released: 2025-09-10
+version: 1.0.0
+type: software
+license: MIT
+url: "https://github.com/KrAzad0/Winter-School-on-Laser-Science-IIT-Jodhpur-Article"
+repository-code: "https://github.com/KrAzad0/Winter-School-on-Laser-Science-IIT-Jodhpur-Article"
+keywords:
+  - "attosecond physics"
+  - "hydrogen atom"
+  - "ultrafast dynamics"
+  - "strong-field physics"
+  - "torus geometry"
+  - "laser-atom interaction"
+  - "quantum simulation"
+abstract: "Research article from the Winter School on Laser Science (IIT Jodhpur) investigating hydrogen atom dynamics when interacting with attosecond laser pulses confined within a torus geometry. Includes theoretical framework, numerical simulations, and analysis of ionization and excitation mechanisms."
